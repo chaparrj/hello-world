@@ -1,3 +1,3 @@
 # hello-world
-Test repository from first training
+Test repository for first training
 Checking branches and merging features
